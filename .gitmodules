@@ -31,6 +31,12 @@
 [submodule "janus/vim/colors/janus-colors"]
 	path = janus/vim/colors/janus-colors
 	url = https://github.com/TechnoGate/janus-colors.git
+[submodule "janus/vim/colors/vim-tomorrow-theme"]
+	path = janus/vim/colors/vim-tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme/
+[submodule "janus/vim/colors/base16-vim"]
+	path = janus/vim/colors/base16-vim
+	url = https://github.com/chriskempson/base16-vim
 
 # Langs
 [submodule "janus/vim/langs/haml"]
@@ -50,7 +56,7 @@
 	url = https://github.com/ajf/puppet-vim.git
 [submodule "janus/vim/langs/scala"]
 	path = janus/vim/langs/scala
-  url = https://github.com/rosstimson/scala-vim-support.git
+	url = https://github.com/rosstimson/scala-vim-support.git
 [submodule "janus/vim/langs/handlebars"]
 	path = janus/vim/langs/handlebars
 	url = https://github.com/nono/vim-handlebars.git
@@ -105,6 +111,9 @@
 [submodule "janus/vim/langs/elixir"]
 	path = janus/vim/langs/elixir
 	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "janus/vim/langs/golang"]
+	path = janus/vim/langs/golang
+	url = https://github.com/jnwhiteh/vim-golang.git
 
 # Tools
 [submodule "janus/vim/tools/unimpaired"]
@@ -206,3 +215,6 @@
 [submodule "bundle/dustjs"]
 	path = bundle/dustjs
 	url = git://github.com/jimmyhchan/dustjs.vim.git
+[submodule "janus/vim/tools/visualstar"]
+	path = janus/vim/tools/visualstar
+	url = https://github.com/thinca/vim-visualstar.git
